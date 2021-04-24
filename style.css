@@ -1,0 +1,13 @@
+body .slovo {
+  width: 500px;
+  height: 50px;
+  background: black;
+  color: white;
+  margin-bottom: 30px;
+}
+
+body .slovo p {
+  padding-top: 15px;
+  padding-left: 50px;
+}
+/*# sourceMappingURL=style.css.map */
