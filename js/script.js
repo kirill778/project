@@ -1,9 +1,13 @@
 "use strict";
 
-let incr = 10,
-    decr = 10;
+let numberOfFilms = prompt("Сколько фильмов Вы уже посмотрели?");
 
+let personalMovieDB = {
 
+    count: numberOfFilms,
+    movies: {},
+    actors: {},
+    genres: [],
+    privat: false
 
-console.log(incr);
-console.log(decr);
+};
