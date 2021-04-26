@@ -11,3 +11,5 @@ let personalMovieDB = {
     privat: false
 
 };
+
+console.log(personalMovieDB.count);
